@@ -1,6 +1,6 @@
 # Simple app that implements login/logout, user creation and a list of all users on Django Rest Framework and Vue.js (Vuetify)
 
-<img width=“964” alt=“Django Vue.js app” src=“https://github.com/inghvar/usermodel/blob/master/images/Selection_123.png”>
+<img width="964" alt="Django Vue.js app" src="https://github.com/inghvar/usermodel/blob/master/images/Selection_123.png">
 
 # To run server:
 
